@@ -7,7 +7,7 @@ body {
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o preenchimento padrão */
 
-    background-image: url('file:///C:/Users/kirsc/Downloads/universo.webp');
+    background-image: url('universo.webp');
     background-repeat: no-repeat; /* Evita a repetição da imagem */
     background-size: cover; 
   }
